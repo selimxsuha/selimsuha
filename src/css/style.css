@@ -5,8 +5,8 @@ body {
     font-family: 'Montserrat';
     background-color: #161616;
     user-select: none;
-    pointer-events: none;
 }
+
 
 h1 {
     margin: 2px;
@@ -281,6 +281,7 @@ html::-webkit-scrollbar-thumb:hover {
 }
 
 img {
+    pointer-events: none;
     -webkit-user-drag: none;
     user-select: none;
     -moz-user-select: none;
