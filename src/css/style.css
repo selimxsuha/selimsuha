@@ -1,4 +1,3 @@
-
 /* General */
 body {
     padding: 0;
@@ -155,6 +154,22 @@ html::-webkit-scrollbar-thumb:hover {
     .box2 img {
         opacity: 0.1;
     }
+
+    .imgTitle {
+        font-size: medium !important;
+    }
+
+    .imgRole, .imgInfo, .imgDesc {
+        font-size: xx-small;
+    }
+
+    .imgIcons {
+        font-size: xx-small;
+    }
+
+    br {
+        display:none;
+    }
 }
 
 /* Section 2 */
@@ -281,7 +296,7 @@ img {
 
 .roleBox {
     display: block;
-    margin-top: 11px;
+    margin-top: 2%;
 }
 
 .imgRole {
