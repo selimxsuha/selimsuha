@@ -4,6 +4,7 @@ body {
     margin: 0;
     font-family: 'Montserrat';
     background-color: #161616;
+    user-select: none;
 }
 
 h1 {
