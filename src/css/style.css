@@ -172,6 +172,9 @@ html::-webkit-scrollbar-thumb:hover {
     br {
         display:none;
     }
+    .projects {
+        margin: 3%;
+    }
 }
 
 /* Section 2 */
